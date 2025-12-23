@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "afterglow",
+  "base_artist": "AZKi",
+  "createdAt": "2025-12-23T10:10:50.921217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Afterglow (2018 - Remaster)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/01_Afterglow_(2018_-_Remaster)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Afterglow",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/02_Afterglow_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Garbage - Afterglow",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/03_Garbage_-_Afterglow_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Afterglow",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/04_Afterglow_Travis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Afterglow",
+      "artist": "Jack Back",
+      "has_synced": true,
+      "path": "select/05_Afterglow_Jack_Back.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Afterglow",
+      "artist": "INXS",
+      "has_synced": false,
+      "path": "select/06_Afterglow_INXS.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Afterglow",
+      "artist": "Scandroid",
+      "has_synced": true,
+      "path": "select/07_Afterglow_Scandroid.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Afterglow",
+      "artist": "Timecop1983",
+      "has_synced": false,
+      "path": "select/08_Afterglow_Timecop1983.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Afterglow (Michael Oakley Remix) (Mixed)",
+      "artist": "Scandroid",
+      "has_synced": true,
+      "path": "select/09_Afterglow_(Michael_Oakley_Remix)_(Mixed)_Scandroid.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Afterglow (Michael Oakley Remix)",
+      "artist": "Scandroid",
+      "has_synced": true,
+      "path": "select/10_Afterglow_(Michael_Oakley_Remix)_Scandroid.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Afterglow",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/11_Afterglow_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Afterglow",
+      "artist": "Great White",
+      "has_synced": false,
+      "path": "select/12_Afterglow_Great_White.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Afterglow (Of your Love)",
+      "artist": "Quiet Riot",
+      "has_synced": true,
+      "path": "select/13_Afterglow_(Of_your_Love)_Quiet_Riot.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "afterglow",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/pl_01_afterglow_AZKi.txt"
+    }
+  ]
+}
